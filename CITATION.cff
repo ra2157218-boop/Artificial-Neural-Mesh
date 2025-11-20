@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research in your work, please cite it as follows."
+authors:
+
+* name: "Syed Abdur Rehman Ali"
+  title: "Artificial Neural Mesh (ANM): A Modular Multi-Model Cognitive Architecture with Controlled Self-Expansion and Web-of-Thought Reasoning"
+  version: "1.0"
+  date-released: "2025-11-20"
+  url: "[https://github.com/ra2157218-boop/Artificial-Neural-Mesh](https://github.com/ra2157218-boop/Artificial-Neural-Mesh)"
+  license: "MIT"
