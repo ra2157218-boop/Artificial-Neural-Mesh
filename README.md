@@ -1,5 +1,7 @@
 # ARTIFICIAL NEURAL MESH (ANM)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17664259.svg)](https://doi.org/10.5281/zenodo.17664259)
+
 ### A Modular, Multi-Model Cognitive Architecture with Controlled Self-Expansion and Web-of-Thought Reasoning
 
 **Version:** 1.0
