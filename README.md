@@ -130,6 +130,7 @@ Hard limits prevent AGI‑like runaway behavior:
 The full technical manuscript is available here in this repository:
 
 **ARTIFICIAL NEURAL MESH (ANM).pdf** [https://github.com/ra2157218-boop/Artificial-Neural-Mesh/blob/main/ARTIFICIAL%20NEURAL%20MESH%20(ANM).pdf)
+
 It includes the architecture diagrams, flow explanations, safety rules, and future directions.
 
 ---
